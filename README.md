@@ -3,7 +3,7 @@
 
 Landing page for azdc-training organization - have fun! 🚀
 
-This is a sample README.md where you document your newly created Coding Dreams! 🧚‍♀️ 🧚‍♂️
+This is a sample README.md where you document your newly crea ted Coding Dreams! 🧚‍♀️ 🧚‍♂️
 
 And if you'd like to use syntax highlighting, include the language: 
 
